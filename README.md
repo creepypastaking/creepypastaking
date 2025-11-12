@@ -7,6 +7,6 @@ I am committed to continuous learning and deepening my knowledge in Kotlin ecosy
 Languages: Kotlin, Python, Lua, JavaScript
 Frontend: Vue, SCSS
 
-#
+###
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=creepypastaking&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
-#
+###
