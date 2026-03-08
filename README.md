@@ -1,4 +1,4 @@
-## RU/EN
+### RU/EN
 
 - Frontend: Vue 3, React, Next.js, TypeScript, UnoCSS
 - Backend: Python, Node.js, Rust
